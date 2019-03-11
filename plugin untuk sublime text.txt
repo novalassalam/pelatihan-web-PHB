@@ -1,0 +1,12 @@
+pastikan harus instal package control dulu -> https://packagecontrol.io/installation #penting
+1. perapi koding ->  { "keys": ["f5"], "command": "reindent", "args": {"single_line": false}} #penting
+2. codeformater 
+3. bootstrap 3 autocomplete dan bootstrap 4 autocomplete
+4. brackethighlighter
+5. codeigniter snippets #penting
+6. colorpicker
+7. icon fonts
+8. sublimecodeintel
+9. sublimelinter #penting
+10. sublimelinter-php #penting
+11. trimmer
